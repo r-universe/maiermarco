@@ -8,3 +8,13 @@
 	url = https://github.com/maiermarco/dirichletreg
 	shallow = true
 	registered = true
+[submodule "prefmod"]
+	path = prefmod
+	url = https://github.com/cran/prefmod
+	shallow = true
+	registered = true
+[submodule "REdaS"]
+	path = REdaS
+	url = https://github.com/cran/REdaS
+	shallow = true
+	registered = true
