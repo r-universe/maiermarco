@@ -5,9 +5,9 @@
 [submodule "DirichletReg"]
 	path = DirichletReg
 	url = https://github.com/maiermarco/dirichletreg
-[submodule "prefmod"]
-	path = prefmod
-	url = https://github.com/cran/prefmod
 [submodule "REdaS"]
 	path = REdaS
 	url = https://github.com/cran/REdaS
+[submodule "prefmod"]
+	path = prefmod
+	url = https://github.com/cran/prefmod
