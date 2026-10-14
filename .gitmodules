@@ -10,4 +10,4 @@
 	url = https://github.com/cran/REdaS
 [submodule "prefmod"]
 	path = prefmod
-	url = https://github.com/cran/prefmod
+	url = https://github.com/maiermarco/prefmod
